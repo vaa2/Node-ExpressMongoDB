@@ -1,0 +1,19 @@
+{
+  "name": "node-expressmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaa2/Node-ExpressMongoDB.git"
+  },
+  "author": "Vivian Alves",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaa2/Node-ExpressMongoDB/issues"
+  },
+  "homepage": "https://github.com/vaa2/Node-ExpressMongoDB#readme"
+}
